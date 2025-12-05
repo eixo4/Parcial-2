@@ -98,5 +98,3 @@ pytest
 ## 📝 Licencia
 
 Este proyecto es de uso educativo y libre. Los datos base pertenecen a los indicadores públicos del Banco Mundial.
-
-```
